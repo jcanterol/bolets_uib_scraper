@@ -2,7 +2,7 @@
 
 ## Descripción
 
-En este repositorio se presenta el proyecto asociado a la PRA1 de las asignatura _Tipología y Ciclo de Vida de los Datos_ del Máster en Ciencia de Datos de la Universitat Oberta de Cataluña.
+En este repositorio se presenta el proyecto asociado a la PRA1 de la asignatura _Tipología y Ciclo de Vida de los Datos_ del Máster en Ciencia de Datos de la Universitat Oberta de Cataluña.
 
 Mediante técnicas de Web Scraping implementadas en Python se extrae la información contenida en la página http://bolets.uib.es/cas/index.html para generar así un catálogo micológico de las Islas Baleares en un formato unificado y adecuado para el análisis de los datos.
 
